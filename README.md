@@ -1,0 +1,1 @@
+# CI Demo [![Build status](https://ci.appveyor.com/api/projects/status/gtq8tdk7ygc7ab49?svg=true)](https://ci.appveyor.com/project/NadezhdaPushkareva/cidemo)
